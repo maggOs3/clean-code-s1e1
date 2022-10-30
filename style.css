@@ -18,7 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
- .matrix-container { text-align: center;}
+ .matrix-container { 
+    text-align: center;
+    }
 }
 .centered-main-page-element {
     display: block;
